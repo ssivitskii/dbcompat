@@ -1,0 +1,1 @@
+{"version":1,"queries":[{"id":"get-account","sql":"SELECT id, name FROM accounts WHERE id = $1","args":[{"type":"int8","value":1}]}]}
